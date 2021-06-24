@@ -10,6 +10,7 @@ numpy = "*"
 jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a216ca83ad931ce4808f4f09407bbeb9a246dac1e7cf33d6cb0a5e3b7c578462"
+            "sha256": "75b878a27d1d9acd36782314cc3df722d14472f3fd9226e9b276f5860be128dd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,10 +18,10 @@
     "default": {
         "anyio": {
             "hashes": [
-                "sha256:41c4be842c284222b197a625d76a7ab85adf9d52788f563172fe180c2744b6c1",
-                "sha256:89e19b1498c8a6f12277e0bd2949597e445aa1b14361fbab2c36943639ef5190"
+                "sha256:07968db9fa7c1ca5435a133dc62f988d84ef78e1d9b22814a59d1c62618afbc5",
+                "sha256:442678a3c7e1cdcdbc37dcfe4527aa851b1b0c9162653b516e9f509821691d50"
             ],
-            "version": "==3.2.0"
+            "version": "==3.2.1"
         },
         "appnope": {
             "hashes": [
@@ -816,6 +816,14 @@
                 "sha256:e5c333bfa9fa739538b652b6f8c8fc2559f1d364243c8a689d7c0e1d41c2e611"
             ],
             "version": "==1.1.0"
+        },
+        "xlrd": {
+            "hashes": [
+                "sha256:6a33ee89877bd9abc1158129f6e94be74e2679636b8a205b43b85206c3f0bbdd",
+                "sha256:f72f148f54442c6b056bf931dbc34f986fd0c3b0b6b5a58d013c9aef274d0c88"
+            ],
+            "index": "pypi",
+            "version": "==2.0.1"
         },
         "zipp": {
             "hashes": [
